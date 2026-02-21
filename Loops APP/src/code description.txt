@@ -1,0 +1,7 @@
+	This program uses a for loop to repeat the program printing a statement and the number.
+	The for loop in the program starts with a number i and multiplies it by two then adds one.
+	The program iterates over and over again checking for the statement to be true and will stop
+	once the statement is false.
+	In the case of this program the program is true until i is greater than 5000.
+	The program takes the number i that it changes and prints it when it is mentioned in the statement.
+	The program changes the value of i at the end of the loop before the next one not the beginning.

@@ -1,0 +1,15 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63330 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-5-program-1-loops-app-jsonnek/out/production/Loops APP Main
+Count is: 1
+Count is: 3
+Count is: 7
+Count is: 15
+Count is: 31
+Count is: 63
+Count is: 127
+Count is: 255
+Count is: 511
+Count is: 1023
+Count is: 2047
+Count is: 4095
+
+Process finished with exit code 0
